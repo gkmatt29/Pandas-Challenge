@@ -1,2 +1,5 @@
-# Pandas-Challenge
-homework
+- The video game landscape is predominately male with 84% of gamers falling within this gender. 
+- However, females tend to spend more person than males
+- Most gamers are between the age of 20-24
+- SN Lisosia93 made the most total purchases of any gamer
+- Despair, Favor of Due Diligence is the most popular item in the game
